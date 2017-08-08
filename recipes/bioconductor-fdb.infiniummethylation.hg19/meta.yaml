@@ -15,14 +15,14 @@ requirements:
     - r-base ==3.3.1
     - bioconductor-annotationdbi
     - bioconductor-biostrings
-    - bioconductor-genomicfeatures >=1.7.22
+    - bioconductor-genomicfeatures >=1.22.13
     - bioconductor-org.hs.eg.db
     - bioconductor-txdb.hsapiens.ucsc.hg19.knowngene
   run:
     - r-base 3.3.1
     - bioconductor-annotationdbi
     - bioconductor-biostrings
-    - bioconductor-genomicfeatures >=1.7.22
+    - bioconductor-genomicfeatures >=1.22.13
     - bioconductor-org.hs.eg.db
     - bioconductor-txdb.hsapiens.ucsc.hg19.knowngene
 test:
